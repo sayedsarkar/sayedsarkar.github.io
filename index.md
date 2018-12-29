@@ -1,4 +1,4 @@
-`[About Me](/about.md)`
+[About Me](/about.md) | [Home](/index.md)
 
 ## Welcome to GitHub Pages
 
