@@ -1,6 +1,4 @@
-[About Me](/about.md) | [Home](/index.md)
-
-## Welcome to GitHub Pages
+## Welcome to Jannat Homeo .Org
 
 You can use the [editor on GitHub](https://github.com/rahiq/rahiq.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
