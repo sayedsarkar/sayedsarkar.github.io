@@ -1,1 +1,1 @@
-Sitemap: https://www.jannathomeo.org/blog/sitemap.xml
+Sitemap: https://blog.jannathomeo.org/sitemap.xml
