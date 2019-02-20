@@ -11,10 +11,10 @@ layout: default
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <article id="page">
+<div class="fb-share-button" data-href="{{ site.url }}{{ page.url | replace:'index.html',''}}" data-layout="button_count"></div>
 	
   {{ content }}
 
-<div class="fb-share-button" data-href="{{ site.url }}{{ page.url | replace:'index.html',''}}" data-layout="button_count"></div>
 </article>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
