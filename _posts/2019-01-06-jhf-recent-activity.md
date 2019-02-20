@@ -1,7 +1,7 @@
 ---
 title:  "JHF managed recent social health service activity"
 ---
-<h2>Recent activity of <span class="caps">Jannat Homeo Foundation</span>:</h2>
+<h3>Recent activity of <span class="caps">Jannat Homeo Foundation</span>:</h3>
 
 <p>Recently we start to serve our nationwide health care service. <strong>Jannat Homeo Clinic</strong>, Munshiganj and <strong>Shefa Homeo Clinic</strong>, Mymensingh jointly organized a <strong>Homeopathic Camp</strong> at the date of <strong>11</strong> December and <strong>12</strong> December <strong>2018</strong> at Taltola Madrasha and Bottola, Tarakandha, Mymensingh. </p>
 
