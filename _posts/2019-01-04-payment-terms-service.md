@@ -3,17 +3,17 @@ title: "Payment Terms And Services"
 ---
 <p>Our online homoeopathy treatment offers a great support to patients from around the globe who are looking for quality homoeopathic treatment. Interested patients; please follow payment terms and conditions described below,</p>
 <h3>Consultation fee for international patient:</h3>
-<p><br></p>
 <p>Homoeopathy treatment for 3 month costs <strong>$60</strong> US Dollar; 6 months treatment costs 
 <strong>$110</strong> US dollars. 1 years of Homoeopathy treatment package costs 
 <strong>$200</strong> US dollars. These costs are for consultation only. If patient want to get the medicine with consultation package than price of the medicine will be charged separately. 
 <strong>$25</strong> (Twenty Five US Dollar) will be charged for shipping too.</p>
 <h3>Consultation fee for Bangladeshi patient:</h3>
+<div><br></div>
 <p><strong>First month's consultation fee:</strong></p>
 <p><strong>500</strong> Taka (Five Hundred Taka).</p>
 <p><strong>Second month to end of treatment:</strong></p>
 <p><strong>300</strong> Taka (Three Hundred Taka) monthly.</p>
-<h4>Alternative option: Receive medicine at your doorstep (Applicable for Bangladeshi Patients only).</h4>
+<p><strong>Alternative option: Receive medicine at your doorstep (Applicable for Bangladeshi Patients only).</strong></p>
 <p><b>Jannat Homeo .Org offers three attractive treatment plans</b></p>
 <ol>
 <li>Treatment For 2 Month cost BDT <strong>2,000</strong> (Suitable for Acute Disease).</li>
