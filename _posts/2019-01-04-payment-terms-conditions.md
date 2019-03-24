@@ -13,7 +13,8 @@ title: "Payment Terms And Conditions"
 <p><strong>500</strong> Taka (Five Hundred Taka).</p>
 <p><strong>Second month to end of treatment:</strong></p>
 <p><strong>300</strong> Taka (Three Hundred Taka) monthly.</p>
-<p><strong>Alternative option: Receive medicine at your doorstep (Applicable for Bangladeshi Patients only).</strong></p>
+<p><strong>Alternative option</strong>:</p>
+<p>Receive medicine at your doorstep (applicable for Bangladeshi patients only).</p>
 <p><b>Jannat Homeo .Org offers three attractive treatment plans</b></p>
 <ol>
 <li>Treatment For 2 Month cost BDT <strong>2,000</strong> (Suitable for Acute Disease).</li>
@@ -24,14 +25,17 @@ title: "Payment Terms And Conditions"
 <p>You have to pay before each prescription made at the beginning (1st to 10th 
 day) of the month (for Bangladeshi Patient) or before first prescription made 
 (for International Patient).</p>
-<p>﻿<strong>How to pay from Bangladesh:</strong> Bank Draft / Cash Payment / bKash / 
-Rocket DBBL Mobile Banking.</p>
+<p>﻿<strong>How to pay from Bangladesh:</strong><br>
+<br>
+Bank Draft / Cash Payment / bKash / Rocket DBBL Mobile Banking.</p>
 <p><strong>Bank information:</strong></p>
 <p>Bank Name: <strong>Bank Asia</strong><br />
 Account Name: <strong>Md Sazu Ahammed</strong><br />
 Account Number: 108 3459 004968.</p>
 <p>bKash Account: <strong>01726-860350</strong> (Personal)</p>
-<p><strong>How to pay from abroad (for on-line payment):</strong> Please Use <b>Western Union</b>, <b>Ria</b> Money Transfer Service for <strong>online payment</strong>.</p>
+<p><strong>How to pay from abroad (for on-line payment):</strong><br>
+<br>
+Please Use <b>Western Union</b>, <b>Ria</b> Money Transfer Service for <strong>online payment</strong>.</p>
 <p><strong>How can the homoeopathy treatment be done even without seeing the patient?</strong></p>
 <p>Modern day facilities like email, sending pictures and audio and video chat are a great help in completely overcoming this hurdle.</p>
 <p>Please visit the link given below and carefully read the <strong>guideline for online 
