@@ -3,6 +3,7 @@ title: "Payment Terms And Services"
 ---
 <p>Our online homoeopathy treatment offers a great support to patients from around the globe who are looking for quality homoeopathic treatment. Interested patients; please follow payment terms and conditions described below,</p>
 <h3>Consultation fee for international patient:</h3>
+<p><br></p>
 <p>Homoeopathy treatment for 3 month costs <strong>$60</strong> US Dollar; 6 months treatment costs 
 <strong>$110</strong> US dollars. 1 years of Homoeopathy treatment package costs 
 <strong>$200</strong> US dollars. These costs are for consultation only. If patient want to get the medicine with consultation package than price of the medicine will be charged separately. 
@@ -13,7 +14,7 @@ title: "Payment Terms And Services"
 <p><strong>Second month to end of treatment:</strong></p>
 <p><strong>300</strong> Taka (Three Hundred Taka) monthly.</p>
 <h4>Alternative option: Receive medicine at your doorstep (Applicable for Bangladeshi Patients only).</h4>
-<h2>Jannat Homeo .Org offers three attractive treatment plans</h2>
+<p><b>Jannat Homeo .Org offers three attractive treatment plans</b></p>
 <ol>
 <li>Treatment For 2 Month cost BDT <strong>2,000</strong> (Suitable for Acute Disease).</li>
 <li>Treatment Plan For 6 Month cost BDT <strong>5,000</strong> (Suitable for Acute/Chronic Disease).</li>
@@ -38,7 +39,7 @@ homeo consultation</strong> before payment.</p>
 <ul>
 <li><a href="https://www.jannathomeo.org/services/online-doctor-consultation-service">Online Consultation Guide</a></li></ul>
 <p style="color:blueviolet"><strong>Recommended Payment Method:</strong></p>
-<p><img style="width:15%;height:15%" align="left" src="/assets/images/datch-bangla.png" alt="Dutch Bangla" /> <img style="width:15%;height:15%" align="left" src="/assets/images/bkash.png" alt="bkash" /> <img style="width:15%;height:15%" align="left" src="/assets/images/wu.jpg" alt="Westurn Union" /></p>
+<p><img style="width:15%;height:15%" src="/assets/images/datch-bangla.png" alt="Dutch Bangla" /> <img style="width:15%;height:15%" src="/assets/images/bkash.png" alt="bkash" /> <img style="width:15%;height:15%" src="/assets/images/wu.jpg" alt="Westurn Union" /></p>
 <p><strong>Few words a patient need to know before payment.</strong></p>
 <p>I am treating the patients through <strong>jannathomeo.org</strong> from many countries around the world since last five years. If you searching for <strong>best quality homoeopathic treatment</strong> then you are on the right place. We can serve the <em>best homeopathy treatment</em> you are looking for. Please make a call or send an email directly to your <strong>online homeopathic consultant</strong> before payment and go ahead after <em>confirmation by the authority</em>. Please make sure to 
 inform me after payment complete.</p>
