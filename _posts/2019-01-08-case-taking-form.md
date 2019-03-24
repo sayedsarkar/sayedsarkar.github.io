@@ -88,6 +88,10 @@ title: "Case Taking Form"
 <p>- Do you notice any clots in the flow?</p>
 <p>------------</p>
 <h3>Download Case Taking Form (Word Format)</h3>
-<p><a href="/assets/files/Case-Taking-Form-En.doc" target="_blank"><img src="/assets/images/Microsoft-Word-2013-icon.png" alt="Word Icon" width="75px" height="75px" /><br /><br /> Case Taking Form (Word Format)</a></p>
+<div align="left">
+<a href="/assets/files/Case-Taking-Form-En.doc" target="_blank"><img src="/assets/images/Microsoft-Word-2013-icon.png" alt="Word Icon" width="75px" height="75px" /><br /><br /> Case Taking Form (Word Format)</a>
+</div>
 <h3>Download Case Taking Form (PDF Format)</h3>
-<p><a href="/assets/files/Case-Taking-Form-En.pdf" target="_blank"><img src="/assets/images/PDF.png" alt="PDF Icon" width="75px" height="75px" /><br /><br /> Case Taking Form (PDF Format)</a></p>
+<div align="left">
+<a href="/assets/files/Case-Taking-Form-En.pdf" target="_blank"><img src="/assets/images/PDF.png" alt="PDF Icon" width="75px" height="75px" /><br /><br /> Case Taking Form (PDF Format)</a>
+</div>
