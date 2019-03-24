@@ -1,5 +1,5 @@
 ---
-title: "Payment Terms And Services"
+title: "Payment Terms And Conditions"
 ---
 <p>Our online homoeopathy treatment offers a great support to patients from around the globe who are looking for quality homoeopathic treatment. Interested patients; please follow payment terms and conditions described below,</p>
 <h3>Consultation fee for international patient:</h3>
