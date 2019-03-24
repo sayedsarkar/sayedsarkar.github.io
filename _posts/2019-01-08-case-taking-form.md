@@ -1,8 +1,7 @@
 ---
 title: "Case Taking Form"
 ---
-<h3>Case taking form for online consultation.</h3>
-<p><br></p>
+<h3>Case taking form for online consultation</h3>
 <p>These questions are designed to get the following information from the patient,</p>
 <p>1. Mental State of the patient.<br />
 2. Physical Ailments.<br />
@@ -89,6 +88,6 @@ title: "Case Taking Form"
 <p>- Do you notice any clots in the flow?</p>
 <p>------------</p>
 <h3>Download Case Taking Form (Word Format)</h3>
-<p><a href="/assets/files/Case-Taking-Form-En.doc" target="_blank"><img align="left" src="/assets/images/Microsoft-Word-2013-icon.png" alt="Word Icon" width="75px" height="75px" /><br /><br /> Case Taking Form (Word Format)</a></p>
+<p><a href="/assets/files/Case-Taking-Form-En.doc" target="_blank"><img align="left" src="/assets/images/Microsoft-Word-2013-icon.png" alt="Word Icon" width="75px" height="75px" /><br><br> Case Taking Form (Word Format)</a></p>
 <h3>Download Case Taking Form (PDF Format)</h3>
-<p><a href="/assets/files/Case-Taking-Form-En.pdf" target="_blank"><img align="left" src="/assets/images/PDF.png" alt="PDF Icon" width="75px" height="75px" /><br /><br /> Case Taking Form (PDF Format)</a></p>
+<p><a href="/assets/files/Case-Taking-Form-En.pdf" target="_blank"><img align="left" src="/assets/images/PDF.png" alt="PDF Icon" width="75px" height="75px" /><br><br> Case Taking Form (PDF Format)</a></p>
