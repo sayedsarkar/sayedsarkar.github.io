@@ -1,7 +1,8 @@
 ---
 title: "Case Taking Form"
 ---
-<h2>Case taking form for online consultation.</h2>
+<h3>Case taking form for online consultation.</h3>
+<p><br></p>
 <p>These questions are designed to get the following information from the patient,</p>
 <p>1. Mental State of the patient.<br />
 2. Physical Ailments.<br />
