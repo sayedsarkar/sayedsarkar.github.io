@@ -1,7 +1,7 @@
 ---
 title:  "What is the advantages of online consultation?"
 ---
-<p>In one way or another, <a href="http://www.jannathomeo.org/consultation/online-consultation.html">online medical consultation</a> has turned out to be a boon for people all over the globe. If you are hard pressed for time or you have to travel long distances to the clinic, you can simply ask your homeopathic doctor online.</p>
+<p>In one way or another, <a href="https://www.jannathomeo.org/services/best-online-homeopathic-doctor-consultation-service-in-bangladesh/">online medical consultation</a> has turned out to be a boon for people all over the globe. If you are hard pressed for time or you have to travel long distances to the clinic, you can simply ask your homeopathic doctor online.</p>
 
 <p>Seeing a doctor online is an excellent option for those interested in a periodical consultation, looking for a follow-up examination or the chronically ill individuals.</p>
 
