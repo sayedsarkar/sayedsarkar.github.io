@@ -20,13 +20,9 @@ title:  "What is the advantages of online consultation?"
 
 <p>Please visit the link given below and carefully read the <strong>guideline for online 
 homeo consultation, treatment cost and payment policy</strong>.</p>
-
 <h3><a href="https://www.jannathomeo.org/services/best-online-homeopathic-doctor-consultation-service-in-bangladesh/">Online Consultation Guide</a></h3>
-
 <h4><a href="https://blog.jannathomeo.org/payment-terms-conditions" target="_blank">Treatment cost, payment terms and conditions</a></h4>
-
 <p>If you want to know anything more then please send me an <a href="mailto:rahi.hpathybd@gmail.com">email</a> anytime you want.</p>
-
 <p>Thankfully,<br />
 <b>Dr. Md. Saju Ahmed</b><br />
 Mobile: <b>+8801865738180.</b> </p>
