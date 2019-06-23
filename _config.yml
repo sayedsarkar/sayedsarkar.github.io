@@ -26,7 +26,8 @@ defaults:
       layout: "post"
 
 plugins:
-  - jekyll-seo-tag
+- jekyll-seo-tag
+- jekyll-sitemap
 
 # Plugins
 gems:
