@@ -25,6 +25,9 @@ defaults:
     values:
       layout: "post"
 
+plugins:
+  - jekyll-seo-tag
+
 # Plugins
 gems:
   - jekyll-paginate
