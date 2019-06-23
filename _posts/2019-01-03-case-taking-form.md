@@ -1,9 +1,8 @@
 ---
-title: "Case Taking Form"
+title: "Case taking form for online doctor consultation"
 ---
-<h3>Case taking form for online consultation</h3>
-<p>These questions are designed to get the following information from the patient,</p>
-<p>1. Mental State of the patient.<br />
+<p>These questions of Case taking form for online doctor consultation are designed to get the following information from the patient,<br />
+1. Mental State of the patient.<br />
 2. Physical Ailments.<br />
 3. The likely cause for above problems.<br />
 4. The modalities like whether the patient feels well or worse in hot weather, cold weather etc., he is relieved by / worsened by hot applications, cold applications etc.</p>
