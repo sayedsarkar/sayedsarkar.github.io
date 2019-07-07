@@ -23,14 +23,14 @@
 
     <!-- Main content -->
 	  <div id="container">
+
+{% include search.html %}
 		  
 		<main>
 
 			{{ content }}
 
 	  </main>
-
-{% include search.html %}
 		
 		  <!-- Pagination links -->
       {% if paginator.total_pages > 1 %}
