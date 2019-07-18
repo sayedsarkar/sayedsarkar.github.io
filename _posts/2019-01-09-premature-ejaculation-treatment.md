@@ -1,6 +1,7 @@
 ---
 title: দ্রুত বীর্যপাত চিকিৎসায় থানকুনি
 description: যদি যথাযোগ্যভাবে পরীক্ষা হয় তবে থানকুনি দ্রুত বির্যপাত ও অবাঞ্চিত শুক্রক্ষরণসহ বিবিধ যৌন দুর্বলতা চিকিৎসায় একটি গুরূত্বপূর্ণ স্থান দখল করার মত যথেষ্ঠ ঔষধি গুণ সম্পন্ন একটি ভেষজ বলে প্রতিয়মান হবে।
+image: /assets/images/premature-ejaculation-treatment.jpg
 ---
 <p><img src="/assets/images/premature-ejaculation-treatment.jpg" alt="দ্রুত বীর্যপাতের চিকিৎসায় থানকুনি" /></p>
 
