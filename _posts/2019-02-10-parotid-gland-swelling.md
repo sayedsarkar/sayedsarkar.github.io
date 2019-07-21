@@ -141,7 +141,7 @@ rahiq
 
 This is the end of the case. You can read the case history by following this link given below,
 
-<a href="https://abchomeopathy.com/forum2.php/246782" rel="nofollow">https://abchomeopathy.com/forum2.php/246782</a>
+<a href="https://abchomeopathy.com/forum2.php/246782" rel="nofollow">ABC Homeopathy Forum</a>
 
 Thanks for reading,
 
