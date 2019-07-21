@@ -123,7 +123,7 @@ Dear Norma,
 
 &gt; Is a specific remedy for an acute gland obstruction or is it a constitutional remedy for me?
 
-It’s hard to say that . Sol. is your constitutional remedy but I can tell you that Merc. Sole. is the best suited remedy for your present condition.
+It’s hard to say that Merc. Sol. is your constitutional remedy but I can tell you that Merc. Sole. is the best suited remedy for your present condition.
 
 &gt; Would you recommend taking the same dose if the problem comes back?
 
