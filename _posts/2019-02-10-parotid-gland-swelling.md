@@ -3,11 +3,12 @@ title: Parotid Gland Swelling - A Case History
 description: I am sharing one of my solved cases today. This is a case of Parotid Gland Swelling. Almost 8 years before I solved it in a on-line homeopathic forum
 image: /assets/images/parotid-gland-swelling.jpg
 ---
+<p><img src="/assets/images/parotid-gland-swelling.jpg" alt="Parotid Gland Swelling Case History" /></p>
 
 I am sharing one of my solved cases today. This is a case of Parotid Gland Swelling. Almost 8 years before I solved it in a on-line homeopathic forum. So, I copied whole case history (nothing changed) and pasted it here for proper understanding of viewers.
 
 <h2>Parotid Gland - Need professional advice</h2>
-
+<br>
 Posted by Nenufar on 2010-10-27
 
 Need professional advice, please help!
