@@ -15,26 +15,26 @@ Need professional advice, please help!
 
 34 years old female, 165 lbs, 5'6' (or 1.70 m)
 
-- Left parotid gland swelling with every meal, little pain, need to massage gland for saliva to come out. When saliva comes out it has a bitter taste. Problem started 3 years ago. Happened every other month, then every other week and now is almost every day. ENT doctor did a manual dilatation of the salivary duct today and the inflammation got worse, pain is worse and I cannot drain the duct with massage any more.
+Left parotid gland swelling with every meal, little pain, need to massage gland for saliva to come out. When saliva comes out it has a bitter taste. Problem started 3 years ago. Happened every other month, then every other week and now is almost every day. ENT doctor did a manual dilatation of the salivary duct today and the inflammation got worse, pain is worse and I cannot drain the duct with massage any more.
 
 Other general symptoms are:
 
-- Severe nasal (dust, pets, mold, changes in temperature)
-- Recurrent sinus infections with itchy throat
-- Facial since teenage years
-- Small skin tags and wart kind of skin growths on chest and neck area.
-- Uncontrollable cravings, will eat until I cannot do it any more. Craves bread and butter, and spicy/hot food. Tends to gain weight due to eating disorder.
-- Irritable, moody, hates contradiction.
-- Perfectionist, cannot overcome failure.
-- obsessive.
-- Black bags around eyes since childhood.
-- Cracked and white coated tongue with teeth marks on both sides.
-- Bad breath
-- Tendency to swell mostly in warm weather.
-- Likes warmth of the bed, likes dark, quiet rooms.
-- Dislikes company.
-- Worried about future.
-- Menstrual period suppressed because I have a IUD (mirena)
+Severe nasal (dust, pets, mold, changes in temperature).<br>
+Recurrent sinus infections with itchy throat.<br>
+Facial since teenage years.<br>
+Small skin tags and wart kind of skin growths on chest and neck area.<br>
+Uncontrollable cravings, will eat until I cannot do it any more. Craves bread and butter, and spicy/hot food. Tends to gain weight due to eating disorder.<br>
+Irritable, moody, hates contradiction.<br>
+Perfectionist, cannot overcome failure.<br>
+Obsessive.<br>
+Black bags around eyes since childhood.
+Cracked and white coated tongue with teeth marks on both sides.
+Bad breath.<br>
+Tendency to swell mostly in warm weather.<br>
+Likes warmth of the bed, likes dark, quiet rooms.<br>
+Dislikes company.<br>
+Worried about future.<br>
+Menstrual period suppressed because I have a IUD (mirena).<br>
 
 A few months ago a friend of mine told me to take , did it and immediately I had a menstrual discharge and my mood got better but after a while the moodiness came back. I tried lyc 200c and I got a horrible leg pain, sore throat that lasted 4 weeks and my acne got worse.
 
