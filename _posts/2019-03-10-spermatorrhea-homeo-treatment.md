@@ -1,5 +1,5 @@
 ---
-title: ধাতু দূর্বলতার সেরা হোমিওপ্যাথিক ঔষধ
+title: ধাতু দূর্বলতার সেরা হোমিওপ্যাথিক ঔষধ - এগনাস কাস্ট (Agnus Cast.)
 description: যৌন সংক্রামিত রোগ বা Sexual Transmitted Diseases (STD) আক্রান্ত ব্যাক্তিদের যৌন দুর্বলতা (Sexual Weakness), ধাতু দূর্বলতা, দ্রুত বীর্যস্ফলন (Premature Ejaculations) প্রভৃতি চিকিৎসায় এগ্নাস কাস্ট (Agnus Cast.) খুবই কার্যকরী একটি সেরা হোমিওপ্যাথিক ঔষধ
 image: /assets/images/spermatorrhea-treatment.jpg
 ---
