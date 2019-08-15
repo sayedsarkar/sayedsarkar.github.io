@@ -12,9 +12,9 @@ keywords: Homeopathy Treatment Cost
 <h3>Consultation fee for Bangladeshi patient:</h3>
 <div><br></div>
 <p><strong>First month's consultation fee:</strong></p>
-<p><strong>300</strong> Taka (Three Hundred Taka).</p>
+<p><strong>500</strong> Taka (Five Hundred Taka).</p>
 <p><strong>Second month to end of treatment:</strong></p>
-<p><strong>200</strong> Taka (Two Hundred Taka) monthly.</p>
+<p><strong>300</strong> Taka (Three Hundred Taka) monthly.</p>
 <p><strong>Alternative option</strong>:</p>
 <p>Receive medicine at your doorstep (applicable for Bangladeshi patients only).</p>
 <p><b>Jannat Homeo .Org offers three attractive treatment plans</b></p>
