@@ -47,7 +47,7 @@ image: /assets/images/online-doctor-consultation.jpg
 
 অনলাইনে হোমিওপ্যাথিক চিকিৎসা গ্রহণ করার পদ্ধতি বিষয়ে আরো কিছু জানার থাকলে নিচের লেখাটি পড়ে নিন।
 
-পড়ুন - <a href="https://www.jannathomeo.org/services/best-online-homeopathic-doctor-consultation-service-in-bangladesh">Best Online Homeopathic Doctor Consultation Service in Bangladesh</a>
+পড়ুন - <a href="https://ahmadrahiq.blogspot.com/2019/08/best-online-doctor-consultation-bangladesh.html">Best Online Homeopathic Doctor Consultation Service in Bangladesh</a>
 
 এছাড়া যে কোন কিছু জানার জন্য <strong>সরাসরি ইমেইল</strong> করা যাবে।
 
