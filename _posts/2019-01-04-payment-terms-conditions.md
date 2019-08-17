@@ -43,7 +43,7 @@ Please Use <b>Western Union</b>, <b>Ria</b> Money Transfer Service for <strong>o
 <p>Please visit the link given below and carefully read the <strong>guideline for online 
 homeo consultation</strong> before payment.</p>
 <ul>
-<li><a href="https://www.jannathomeo.org/services/best-online-homeopathic-doctor-consultation-service-in-bangladesh/">Online Consultation Guide</a></li></ul>
+<li><a href="https://ahmadrahiq.blogspot.com/2019/08/best-online-doctor-consultation-bangladesh.html">Online Consultation Guide</a></li></ul>
 <p style="color:blueviolet"><strong>Recommended Payment Method:</strong></p>
 <p><img style="width:15%;height:15%" src="/assets/images/datch-bangla.png" alt="Dutch Bangla" /> <img style="width:15%;height:15%" src="/assets/images/bkash.png" alt="bkash" /> <img style="width:15%;height:15%" src="/assets/images/wu.jpg" alt="Westurn Union" /></p>
 <p><strong>Few words a patient need to know before payment.</strong></p>
