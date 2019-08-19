@@ -52,5 +52,5 @@ inform me after payment complete.</p>
 <p>Thankfully,<br />
 <strong>Jannat Homeo .Org</strong><br />
 <small>Best Quality Homoeopathic Treatment Provider in Bangladesh.</small></p>
-<p><b>Contact No. - +8801726-860350</b><br>
-E-Mail: info.rahiq@gmail.com</p>
+<p><b>Contact No. : +8801726-860350</b><br>
+E-Mail: <a href="mailto:info.rahiq@gmail.com">info.rahiq@gmail.com</a></p>
