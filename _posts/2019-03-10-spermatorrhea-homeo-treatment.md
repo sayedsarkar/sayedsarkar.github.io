@@ -40,4 +40,4 @@ image: /assets/images/spermatorrhea-treatment.jpg
 
 ধন্যবাদ,<br>
 <strong>ডাঃ মোঃ সাজু আহমেদ</strong><br>
-মোবাইলঃ <strong>+৮৮০১৮৬৫-৭৩৮১৮০</strong>
+মোবাইলঃ <strong>+৮৮০১৭২৬-৮৬০৩৫০</strong>
