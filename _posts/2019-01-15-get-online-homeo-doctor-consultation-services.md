@@ -50,4 +50,6 @@ image: /assets/images/online-doctor-consultation.jpg
 আমাদের <strong>সেবা ও অনলাইন ভিত্তিক চিকিৎসা</strong>'র সুবিধাসমূহ বিষয়ক কোন জিজ্ঞাসা বা মতামত থাকলে তা <strong>কমেন্ট করে</strong> আমাদের জানাতে পারেন।
 
 এছাড়া আরো বিস্তৃতভাবে জানার জন্য যোগাযোগ করুনঃ (শুধুমাত্র নারী রোগীদের জন্য প্রযোজ্য)<br>
+
 <strong>ডাঃ জান্নাত আরা জেবা</strong><br>
+ইমেইলঃ <a href="mailto:jannatarazeba@gmail.com>jannatarazeba@gmail.com</a>
