@@ -69,4 +69,4 @@ image: /assets/images/premature-ejaculation-treatment.jpg
 
 <p>ধন্যবাদান্তে,<br>
 <strong>ডাঃ মোঃ সাজু আহমেদ</strong><br>
-মোবাইলঃ <strong>+৮৮০১৮৬৫-৭৩৮১৮০</strong></p>
+মোবাইলঃ <strong>+৮৮০১৭২৬-৮৬০৩৫০</strong></p>
