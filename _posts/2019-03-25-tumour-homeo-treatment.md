@@ -57,5 +57,5 @@ image: /assets/images/tumour.jpg
 
 ধন্যবাদ-
 
-ডাঃ মোঃ সাজু আহমেদ<br>
-মোবাইলঃ +৮৮০১৭২৬-৮৬০৩৫০
+<b>ডাঃ জান্নাত আরা জেবা</b><br>
+ইমেইলঃ <a href="mailto:jannatarazeba@gmail.com">jannatarazeba@gmail.com</a>
