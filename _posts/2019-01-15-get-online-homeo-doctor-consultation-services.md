@@ -54,4 +54,4 @@ image: /assets/images/online-doctor-consultation.jpg
 (শুধুমাত্র নারী ও শিশু রোগীদের জন্য প্রযোজ্য)<br>
 
 <strong>ডাঃ জান্নাত আরা জেবা</strong><br>
-ইমেইলঃ <a href="mailto:jannatarazeba@gmail.com>jannatarazeba@gmail.com</a>
+ইমেইলঃ <a href="mailto:jannatarazeba@gmail.com">jannatarazeba@gmail.com</a>
