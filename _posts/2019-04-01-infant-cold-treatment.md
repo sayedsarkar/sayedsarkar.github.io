@@ -70,5 +70,5 @@ image: /assets/images/infant-cold-treatment.jpg
 
 ধন্যবাদান্তে,
 
-<strong>ডাঃ মোঃ সাজু আহমেদ</strong>
+<strong>ডাঃ মোঃ সাজু আহমেদ</strong><br>
 মোবাইলঃ <strong>+৮৮০১৭২৬-৮৬০৩৫০</strong>
