@@ -68,7 +68,7 @@ keywords:
 
 এছাড়া আইবিএস এর হোমিওপ্যাথি চিকিৎসা সম্পর্কে বিস্তারিত জানতে নিচের ভিডিওটি দেখুন। এতে আইবিএস এর লক্ষণ, কারণ ও প্রতিকার তথা আইবিএস এর হোমিও চিকিৎসা পদ্ধতি সম্পর্কে তথ্যপূর্ণ ও বিস্তারিত আলোচনা করা হয়েছে।
 
-https://youtu.be/Jy0mJHhtHhk
+<iframe width="318" height="360" src="https://www.youtube.com/embed/Jy0mJHhtHhk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 লেখাটি পড়ে ভালো লাগলে অবশ্যই লাইক দিয়ে আমাদের সঙ্গেই থাকবেন। কিছু জানার থাকলে কমেন্ট বক্স ব্যবহার করে আমাদের সরাসরি প্রশ্ন করতে পারেন। আশা করি দ্রুত উত্তর পাবেন।
 
