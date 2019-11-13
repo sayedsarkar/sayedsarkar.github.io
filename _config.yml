@@ -1,10 +1,10 @@
 # Site settings
-title: Jannat's Blog
-description: "A personal blog of Dr. Jannat Ara Jeba for sharing Homeopathic principles."
+title: Dr. S. Ahmad's Blog
+description: "A personal blog of Dr. Md. Saju Ahmad for sharing Homeopathic principles."
 url: "https://blog.jannathomeo.org"
 author:
-  name: "Dr. Jannat Ara Jeba"
-  email: "jannatarazeba@gmail.com"
+  name: "Dr. Md. Saju Ahmad"
+  email: "info.rahiq@gmail.com"
   url: "https://www.jannathomeo.org"
 
 # Build settings
