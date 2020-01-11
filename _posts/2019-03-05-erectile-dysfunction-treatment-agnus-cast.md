@@ -39,7 +39,7 @@ image: /assets/images/erectile-dysfunction.jpg
 
 অন্যথায় অনুমান নির্ভর হয়ে প্রয়োগ করলে অবশ্যই আমাদের শুধুমাত্র ব্যর্থতার স্বাদ পেতে হবে।
 
-প্রাসঙ্গিক লেখাটি পড়ে দেখতে পারেন- <a href="https://blog.jannathomeo.org/spermatorrhea-treatment-selenium">শুক্রমেহ, ধাতুমেহ বা ধাতুক্ষয় রোগের সেরা হোমিও ওষুধ – সেলেনিয়াম (Selenium)</a>
+প্রাসঙ্গিক লেখাটি পড়ে দেখতে পারেন- <a href="https://blog.althealthcare.info/spermatorrhea-treatment-selenium">শুক্রমেহ, ধাতুমেহ বা ধাতুক্ষয় রোগের সেরা হোমিও ওষুধ – সেলেনিয়াম (Selenium)</a>
 
 লেখকঃ<br>
 <strong>ডাঃ মোঃ সাজু আহমদ</strong><br>
