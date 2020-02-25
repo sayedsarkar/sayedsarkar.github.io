@@ -66,7 +66,7 @@ image: /assets/images/premature-ejaculation-treatment.jpg
 
 <strong>গ্রহণমাত্রাঃ</strong> হাইড্রোকোটাইল মূল মাদার টিংচার (Hydrocotyle Asiatica Q) <strong>২ থেকে ৩ ফোঁটা</strong> করে দিনে ১ বার। এটা নিয়মিত খেলে <strong>ত্বকের পিগমেন্টেশন </strong>প্রক্রিয়া উদ্দীপিত করে ত্বকের স্বাভাবিক রং ও চামড়ার উপরস্থ ক্ষতিগ্রস্থ টিস্যু <strong>পুনঃগঠনে</strong> সাহায্য করে। <strong>ধবল, শ্বেতী বা Leucoderma, Vitiligo</strong> চিকিৎসায় গুরুত্বপূর্ণ অবদান রাখতে সক্ষম হয়।
 
-পড়ুন- <a href="https://althealthcare.info/articles/homeopathic-treatment-of-leucoderma-or-vitiligo">শ্বেতী (Vitiligo), ধবল বা লিউকোডার্মা (Leucoderma) রোগের হোমিওপ্যাথি চিকিৎসা</a>
+পড়ুন- <a href="https://jannathomeo.org/2019/10/31/%e0%a6%a7%e0%a6%ac%e0%a6%b2-%e0%a6%ac%e0%a6%be-%e0%a6%b2%e0%a6%bf%e0%a6%89%e0%a6%95%e0%a7%8b%e0%a6%a1%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%ae%e0%a6%be-leucoderma-%e0%a6%8f%e0%a6%b0-%e0%a6%b9%e0%a7%8b/">শ্বেতী (Vitiligo), ধবল বা লিউকোডার্মা (Leucoderma) রোগের হোমিওপ্যাথি চিকিৎসা</a>
 
 <h4>যৌন দূর্বলতা ও চর্মরোগ চিকিৎসায় থানকুনি'র সম্বাবনা</h4>
 
