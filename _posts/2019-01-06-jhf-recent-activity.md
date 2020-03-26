@@ -11,7 +11,7 @@ title:  "JHF managed recent social health service activity"
 
 ![Jannat Homeo Foundation Care](/assets/images/12-12-18.jpg)
 
-<strong><a href="https://manage.xeonbd.com/aff.php?aff=325&page=managed-wordPress-ssd-hosting" target="_blank">SSD Powered Wordpress Hosting</a></strong><br>                    For Unlimited Speed & Growth<br>                    AI Powered Security, 30 Days Money Back<br>                    24x7 Online Help Desk, 99.99% Uptime                
+<strong><a href="https://manage.xeonbd.com/aff.php?aff=325&page=managed-wordPress-ssd-hosting" target="_blank">SSD Powered Wordpress Hosting</a></strong><br>For Unlimited Speed & Growth<br>AI Powered Security, 30 Days Money Back<br>24x7 Online Help Desk, 99.99% Uptime                
 
 _**Find Us Here:**_
 

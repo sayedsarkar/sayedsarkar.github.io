@@ -23,4 +23,4 @@ image: /assets/images/toothache-treatment.jpg
 
 প্রাসঙ্গিক লেখাটি পড়ে দেখতে পারেন।
 
-পড়ুন- <a href="https://jannathomeo.org/2019/10/07/%e0%a6%a6%e0%a6%be%e0%a6%81%e0%a6%a4-%e0%a6%ac%e0%a7%8d%e0%a6%af%e0%a6%a5%e0%a6%be%e0%a6%b0-%e0%a6%b9%e0%a7%8b%e0%a6%ae%e0%a6%bf%e0%a6%93%e0%a6%aa%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a5%e0%a6%bf/">দাঁতের ক্ষয় রোগ ও দাঁত ব্যথার হোমিওপ্যাথি চিকিৎসা</a>
+পড়ুন- <a href="https://althealthcare.info/articles/homeopathy-treatment-of-dental-pain">দাঁতের ক্ষয় রোগ ও দাঁত ব্যথার হোমিওপ্যাথি চিকিৎসা</a>

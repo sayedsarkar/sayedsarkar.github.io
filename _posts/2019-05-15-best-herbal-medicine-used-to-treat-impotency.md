@@ -31,4 +31,4 @@ image: /assets/images/impotency.jpg
 
 শুক্রতারল্য রোগে বেল এর ব্যবহার আছে। বেল মূলের ছাল চূর্ণ ১২/১৩ গ্রেণ এবং তার অর্ধেক পরিমাণ জিরা এক সাথে বেটে ঘিয়ের সাথে মিশিয়ে কিছুদিন খেলে তরল শুক্র গাঢ় হয়। অনেকে এর জন্য মূলের ছালের রস, দুধ ও জিরা একত্রে খেতে উপদেশ দেন।
 
-প্রাসঙ্গিক লেখাটি পড়ে দেখতে পারেন- <a href="https://rahiqshomeopathy.blogspot.com/2019/08/best-homeopathic-remedy-for-erectile.html">Best Homeopathic Remedy For Strengthens Sexuality</a>
+প্রাসঙ্গিক লেখাটি পড়ে দেখতে পারেন- <a href="https://jannathomeo.org/2019/08/17/best-homeopathic-remedy-for-strengthens-sexuality/">Best Homeopathic Remedy For Strengthens Sexuality</a>
