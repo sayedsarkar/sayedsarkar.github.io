@@ -1,5 +1,5 @@
 ---
-title:  "JHF managed recent social health service activity"
+title:  "JHF Managed Recent Social Healthcare Service Activity"
 ---
 <h3>Recent activity of <span class="caps">Jannat Homeo Foundation</span>:</h3>
 

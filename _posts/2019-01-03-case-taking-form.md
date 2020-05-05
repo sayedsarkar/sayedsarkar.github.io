@@ -1,6 +1,6 @@
 ---
-title: Case taking form for online doctor consultation
-description: These questions of Case taking form for online doctor consultation are designed to get the following information from the patient
+title: Case Taking Form for Online Doctor Consultation
+description: These questions of case taking form for online doctor consultation are designed to get the following information from the patient
 ---
 <p>These questions of Case taking form for online doctor consultation are designed to get the following information from the patient,</p>
 <h2>What to expect from the answers of case taking form</h2>
