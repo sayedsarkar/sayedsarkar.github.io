@@ -74,16 +74,16 @@ layout: default
 <script id="dsq-count-scr" src="//drsaju.disqus.com/count.js" async></script>
 
 <div class="related">
-  <h4>Related Posts</h4>
+  <h5>Related Posts</h5>
   <ul class="related-posts">
     {% for post in site.related_posts limit:10 %}
       <li style="list-style:none;list-style-image: url(../assets/images/li-icon.gif");text-align:justify;">
-        <h5>
+        <h6>
           <a href="{{ site.baseurl }}{{ post.url }}">
             {{ post.title }}
             <small>{{ post.date | date_to_string }}</small>
           </a>
-        </h5>
+        </h6>
       </li>
     {% endfor %}
   </ul>
