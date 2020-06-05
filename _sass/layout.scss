@@ -10,13 +10,13 @@
     font-size: 1.5em;
     font-weight: 400;
     @media (min-width: 940px) {
-      font-size: 1em;
+    font-size: 1em;
     }
-    &:hover {
-      background-color: lighten($main-color, 5%);
-    }
-  }
-  span {
+&:hover {
+    background-color: lighten($main-color, 5%);
+}
+}
+span {
       font-weight: 200;
     }
 }
@@ -66,39 +66,39 @@
   background-color: lighten($text-color, 35%);
   margin-top: 8px;
   &:after, &:before {
-    content: "";
-    display: block;
-    position: relative;
-    height: 4px;
-    width: 1.5em;
-    background-color: lighten($text-color, 35%);
-    transition: all 0.3s ease-in;
-  }
-  &:before {
-    top: -8px;
-  }
-  &:after {
-    top: 4px;
-  }
-  &.btn-close {
-    background: none;
-  }
-  &.btn-close:before {
-    top: 0;
-    -webkit-transform: rotate(-45deg);
-       -moz-transform: rotate(-45deg);
-        -ms-transform: rotate(-45deg);
-            transform: rotate(-45deg);
-    background-color: $background-color;
-  }
-  &.btn-close:after {
-    top: -4px;
-    -webkit-transform: rotate(45deg);
-       -moz-transform: rotate(45deg);
-        -ms-transform: rotate(45deg);
-            transform: rotate(45deg);
-    background-color: $background-color;
-  }
+  content: "";
+  display: block;
+  position: relative;
+  height: 4px;
+  width: 1.5em;
+  background-color: lighten($text-color, 35%);
+  transition: all 0.3s ease-in;
+}
+&:before {
+  top: -8px;
+}
+&:after {
+  top: 4px;
+}
+&.btn-close {
+  background: none;
+}
+&.btn-close:before {
+  top: 0;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  background-color: $background-color;
+}
+&.btn-close:after {
+  top: -4px;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+  background-color: $background-color;
+}
 }
 
 /* Main content */
@@ -107,8 +107,8 @@
   position: fixed;
   width: 100%;
   @media (min-width: 940px) {
-    position: static;
-  }
+  position: static;
+}
 }
 
 #container {
@@ -122,34 +122,30 @@
   padding: 24px 0;
   position: relative;
   a {
-  	text-decoration: none;
-  	color: $text-color;
-  	display: inline-block;
-  }
-  img {
+  text-decoration: none;
+  color: $text-color;
+  display: inline-block;
+}
+img {
   	max-height: 72px;
   	margin: 0 auto;
   	display: block;
-  }
+}
   h1 {
   	font-family: 'Signika', sans-serif; //Emerald logo font
     font-weight: 600;
-
     font-family: 'Baloo Da 2', cursive;
-
     font-family: 'Hind Siliguri', sans-serif;
-
     font-family: 'Open Sans', sans-serif;
-
-  }
-  &:after {
+}
+&:after {
   	display: block;
     content: '';
     width: 5rem;
     height: 1px;
     margin: 23px auto;
     background-color: lighten($text-color, 70%);
-  }
+}
 }
 
 /* Posts */
