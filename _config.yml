@@ -1,11 +1,11 @@
 # Site settings
-title: Dr. S. Ahmad's Blog
-description: "A personal blog of Dr. Md. Saju Ahmad for sharing Homeopathic principles."
-url: "https://blog.jannathomeo.org"
+title: Sayed Sarkar .Com
+description: "A Information and Communication Technology and Lifestyle Related Blog."
+url: "https://en.sayedsarkar.com"
 author:
-  name: "Dr. Md. Saju Ahmad"
-  email: "info.rahiq@gmail.com"
-  url: "https://jannathomeo.org"
+  name: "Sabber Ahmad Rahiq"
+  email: "rahi@sayedsarkar.com"
+  url: "https://sayedsarkar.com"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
